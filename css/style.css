@@ -1,0 +1,26 @@
+.half-width{
+    float: left;
+    width: 40%;
+    margin: 1em;
+    height: 100%;
+    padding: 1em;
+}
+.half-width img{
+    height: 100%;
+    width: 100%;
+}
+.icon-small img{
+    width: 90px;
+    height: 90px;
+}
+.card-border{
+    border: 0px;
+    background-color: rgba(229, 224, 224, 0.389);
+}
+.button-color{
+    background-color: rgba(89, 122, 89, 0.688);
+}
+.button-border{
+    border: 0px;
+}
+
